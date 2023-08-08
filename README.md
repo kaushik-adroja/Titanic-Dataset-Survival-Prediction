@@ -5,12 +5,7 @@
 Using Machine learning algorithm on the famous **Titanic Disaster** Dataset for Predicting the survival of the passenger. 
 
 Dependencies : 
-Python3
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Machine Learning Algorithm
+Python3, Numpy, Pandas, Matplotlib, Seaborn, Machine Learning Algorithm
 
 
 
